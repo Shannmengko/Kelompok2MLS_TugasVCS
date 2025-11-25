@@ -12,6 +12,17 @@
     print("Pilihan tidak valid!")
     return
 
+  '''
+    Fungsi yang mengecek pemilihan pengguna dan menjalankan fungsi
+  '''
+    
   print("Hasil:", hasil)
 
+  '''
+    Hasil operasi ditampilkan ke layar
+  '''
+
 kalkulator()
+'''
+  Baris ini menjalankan seluruh kalkulator yang sudah dibuat
+'''
