@@ -17,13 +17,13 @@ Memang fitur kami tidak selengkap kalkulator lain karena ini hanya kalkulator se
 
 Panduan Instalasi
 
-1.Salin link repository kami
-2.Buka Aplikasi Visual Studio Code
-3.Buka Terminal 
-4.Ketik “git clone <link-repo-kami>” atau bisa langsung "git clone https://github.com/Shannmengko/Kelompok2MLS_TugasVCS.git"
-5.Enter 
+- Salin link repository kami
+- Buka Aplikasi Visual Studio Code
+- Buka Terminal
+- Ketik “git clone <link-repo-kami>” atau bisa langsung "git clone https://github.com/Shannmengko/Kelompok2MLS_TugasVCS.git"
+- Enter 
 
 Panduan Menjalankan
 
-1.Jalankan/Run folder main.py
-2.Silahkan menghitung dengan memasukkan pilihan operasi matematika dan kedua angka yang akan digunakan
+- Jalankan/Run folder main.py
+- Silahkan menghitung dengan memasukkan pilihan operasi matematika dan kedua angka yang akan digunakan
