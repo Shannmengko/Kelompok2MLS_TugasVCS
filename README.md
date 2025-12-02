@@ -12,4 +12,5 @@ Fitur Utama :
 - Perkalian
 - Pembagian
 - Perpangkatan
+
 Memang fitur kami tidak selengkap kalkulator lain karena ini hanya kalkulator sederhana. Namun ini sudah cukup untuk bisa menghitung matematika sederhana yang tidak terlalu rumit.
