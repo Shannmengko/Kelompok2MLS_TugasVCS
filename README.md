@@ -14,3 +14,16 @@ Fitur Utama :
 - Perpangkatan
 
 Memang fitur kami tidak selengkap kalkulator lain karena ini hanya kalkulator sederhana. Namun ini sudah cukup untuk bisa menghitung matematika sederhana yang tidak terlalu rumit.
+
+Panduan Instalasi
+
+1.Salin link repository kami
+2.Buka Aplikasi Visual Studio Code
+3.Buka Terminal 
+4.Ketik “git clone <link-repo-kami>” atau bisa langsung "git clone https://github.com/Shannmengko/Kelompok2MLS_TugasVCS.git"
+5.Enter 
+
+Panduan Menjalankan
+
+1.Jalankan/Run folder main.py
+2.Silahkan menghitung dengan memasukkan pilihan operasi matematika dan kedua angka yang akan digunakan
