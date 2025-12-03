@@ -27,3 +27,5 @@ Panduan Menjalankan
 
 - Jalankan/Run folder main.py
 - Silahkan menghitung dengan memasukkan pilihan operasi matematika dan kedua angka yang akan digunakan
+
+<img width="681" height="712" alt="Calculator Diagram drawio (1)" src="https://github.com/user-attachments/assets/9d68a4a9-637a-43e3-a2bf-4be7002803b1" />
