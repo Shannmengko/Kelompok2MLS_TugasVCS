@@ -33,3 +33,10 @@ Dokumentasi Teknis
 Rancangan sistem dalam bentuk diagram flowchart
 
 <img width="681" height="712" alt="Calculator Diagram drawio (1)" src="https://github.com/user-attachments/assets/9d68a4a9-637a-43e3-a2bf-4be7002803b1" />
+
+
+Daftar Kontribusi Tabel
+
+![WhatsApp Image 2025-12-02 at 13 19 16](https://github.com/user-attachments/assets/d8f518af-57c7-4cd2-9a0b-b54b5f2b7afa)
+
+
